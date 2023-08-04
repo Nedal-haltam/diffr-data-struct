@@ -9,7 +9,7 @@ class clsqueue
 private:
 	clsDblLinkedList<T> _MyList;
 public:
-
+		vitual ~clsqueue(){}
 
 		void push(T Item)
 		{
