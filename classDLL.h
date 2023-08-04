@@ -47,7 +47,7 @@ public:
 
 
 
-	clsDblLinkedList(); //copy constructor
+	clsDblLinkedList();
 
 	~clsDblLinkedList();
 
